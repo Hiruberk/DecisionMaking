@@ -1,0 +1,13 @@
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\bin\Debug\netcoreapp3.1\Decision Making.exe
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\bin\Debug\netcoreapp3.1\Decision Making.deps.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\bin\Debug\netcoreapp3.1\Decision Making.runtimeconfig.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\bin\Debug\netcoreapp3.1\Decision Making.runtimeconfig.dev.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\bin\Debug\netcoreapp3.1\Decision Making.dll
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\bin\Debug\netcoreapp3.1\Decision Making.pdb
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.csprojAssemblyReference.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.AssemblyInfoInputs.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.AssemblyInfo.cs
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.csproj.CoreCompileInputs.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.dll
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.pdb
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\Decision Making\Decision Making\obj\Debug\netcoreapp3.1\Decision Making.genruntimeconfig.cache
