@@ -19,23 +19,25 @@ namespace Decision_Making
                 {
                     Console.Beep();
                     Console.Beep();
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("HEY! That was not what I asked for!");
+                    Console.ResetColor();
                 }
                 else if (input % 2 == 0 && input < 25)
                 {
-                    Console.WriteLine($"{input} is even and less than 25");
+                    Console.WriteLine($"{user} entered {input}, which is even and less than 25!");
                 }
                 else if (input % 2 == 0 && input <= 60)
                 {
-                    Console.WriteLine("Even!");
+                    Console.WriteLine($"{user} entered Even!");
                 }
                 else if (input % 2 == 0 && input >= 60)
                 {
-                    Console.WriteLine($"{input} is Even!");
+                    Console.WriteLine($"{user} entered {input} and is Even!");
                 }
                 else
                 {
-                    Console.WriteLine($"{input} and odd!");
+                    Console.WriteLine($"{user} entered {input} and is odd!");
                 }
 
                 Console.WriteLine("Continue? (y/n)");
